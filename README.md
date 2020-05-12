@@ -6,7 +6,7 @@ The class should work as follows.
 
 ```python
 garden = Song("In The Garden", 10910)
-print("The song " + garden.name() + " has a length of " + str(garden.length()) + " seconds.")
+print("The song " + garden.name + " has a length of " + str(garden.length) + " seconds.")
 ```
 
 ```plaintext
